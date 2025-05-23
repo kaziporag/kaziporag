@@ -1,4 +1,4 @@
-## Hi there! I’m Kazi Rabiul 👋
+## Hi There! I’m Kazi Rabiul 👋
 I’m an entrepreneur and developer with a strong passion for open-source technology. With expertise in PHP, WordPress, Vue, React, and Node.js, I thrive on building innovative and user-friendly web applications.
 
 <b>🔧 My Tech Stack:</b>\
